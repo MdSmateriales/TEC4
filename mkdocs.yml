@@ -23,26 +23,26 @@ theme:
 
 nav:
   - Inicio: index.md
-  - Unidad 1. Pensamiento computacional:
-      - Algoritmos y Estructuras: unidad-1/algoritmos.md
-      - Tecnologías emergentes: unidad-1/entornos.md
-  - Unidad 2. Proceso Tecnológico:
-      - Metodología y Fases: unidad-2/metodologia.md
-      - Memoria Técnica: unidad-2/memoria.md
-  - Unidad 3. Electrónica analógica:
-      - Componentes y Ley de Ohm: unidad-3/analogica.md
-      - Esquemas y Circuitos: unidad-3/simulacion.md
-  - Unidad 4. Electrónica digital:
-      - Algoritmos y Estructuras: unidad-4/boole.md
-      - Entornos de Programación: unidad-4/digital.md
-  - Unidad 5. Automatización:
-      - Pines y Control Digital: unidad-5/pines-digitales.md
-      - Actuadores Básicos: unidad-5/actuadores-basicos.md
-      - Lectura de Sensores: unidad-5/sensores.md
-      - Motores y Control: unidad-5/motores.md
+  - Unidad 1. Proceso Tecnológico:
+      - Metodología y Fases: unidad-1/metodologia.md
+      - Memoria Técnica: unidad-1/memoria.md
+  - Unidad 2. Electrónica analógica:
+      - Componentes y Ley de Ohm: unidad-2/analogica.md
+      - Esquemas y Circuitos: unidad-2/simulacion.md
+  - Unidad 3. Electrónica digital:
+      - Algebra de Boole: unidad-3/boole.md
+      - Entornos de Programación: unidad-3/digital.md
+  - Unidad 4. Automatización:
+      - Pines y Control Digital: unidad-4/pines-digitales.md
+      - Actuadores Básicos: unidad-4/actuadores-basicos.md
+      - Lectura de Sensores: unidad-4/sensores.md
+      - Motores y Control: unidad-4/motores.md
+  - Unidad 5. Pensamiento computacional:
+      - Algoritmos y Estructuras: unidad-5/algoritmos.md
+      - Tecnologías emergentes: unidad-5/entornos.md
   - Unidad 6. Tecnología sostenible, Diseño y Fabricación:
       - Arquitectura bioclimática: unidad-6/arquitecturas.md
-      Clasificación de Materiales: unidad-6/materiales.md
+      - Clasificación de Materiales: unidad-6/materiales.md
       - Impresión 3D y Taller: unidad-6/fabricacion.md
   - Unidad 7. Servicios sostenibles:
       - Servicios sostenibles: unidad-7/servicios.md
