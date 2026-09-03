@@ -1,4 +1,4 @@
-site_name: TEC4
+osite_name: TEC4
 site_url: https://MdSmateriales.github.io/TEC4/
 
 theme:
@@ -24,7 +24,7 @@ theme:
 nav:
   - Inicio: index.md
   - Unidad 1. Proceso Tecnológico:
-      - Metodología y Fases: unidad-1/metodologia.md
+      - Metodología y Fases: unidad-1/metodologia-proyectos.md
       - Memoria Técnica: unidad-1/memoria.md
   - Unidad 2. Electrónica analógica:
       - Componentes y Ley de Ohm: unidad-2/analogica.md
