@@ -12,7 +12,7 @@ El programa formativo se estructura en **8 unidades didácticas y bloques de tra
 
 !!! info "Estructura del Programa"
 
-    1. **Unidad 1. Pensamiento Computacional:** Algoritmos, diagramas de flujo y tecnologías emergentes.
+    1. **Unidad 1. Pensamiento Computacional:** Algoritmos, diagramas de flujo y tecnologías emergentes..
     
     2. **Unidad 2. El Proceso Tecnológico:** Metodología de proyectos, fases de diseño y memoria técnica.
     
