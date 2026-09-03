@@ -1,0 +1,28 @@
+yaml
+site_name: TEC4
+site_url: https://MdSmateriales.github.io/TEC4/
+
+theme:
+  name: material
+  language: es
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Cambiar a modo oscuro
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Cambiar a modo claro
+  features:
+    - navigation.indexes
+    - search.suggest
+    - search.highlight
+    - navigation.sections
+
+nav:
+  - Inicio: index.md
+  - U1:
+      - GestionDelTrabajo: u1/p1.md
