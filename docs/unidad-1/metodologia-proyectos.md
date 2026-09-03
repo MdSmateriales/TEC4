@@ -57,7 +57,6 @@ La **planificación de un proyecto** consiste en organizar de forma anticipada l
 
 En nuestros proyectos utilizaremos herramientas y metodologías que nos ayudarán a trabajar de forma organizada, colaborativa y flexible, como **Design Thinking** y **Agile**.
 
----
 
 ##  Pasos para planificar y desarrollar un proyecto
 
