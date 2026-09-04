@@ -1,4 +1,4 @@
-# 🛠️ Metodologías para desarrollar proyectos
+#  Metodologías para desarrollar proyectos
 
 Cuando realizamos un proyecto tecnológico, tener una buena idea es solo el principio. Para conseguir que esa idea se convierta en una **solución útil**, necesitamos organizar el trabajo, tomar decisiones, distribuir las tareas y comprobar que lo que estamos haciendo funciona.
 
@@ -27,25 +27,25 @@ Sin una planificación y una metodología, podemos encontrarnos con tareas que s
 
 Durante este curso vamos a conocer y aplicar dos metodologías especialmente útiles para desarrollar proyectos:
 
-- 🎨 **Design Thinking**
-- ⚡ **Agile**
+-  **Design Thinking**
+-  **Agile**
 
 Aunque están relacionadas y pueden utilizarse conjuntamente, **no tienen exactamente el mismo objetivo**.
 
 ---
 
-## 🎨 Design Thinking
+##  Design Thinking
 
 **Design Thinking** resulta especialmente útil cuando **todavía no tenemos clara la solución** y necesitamos comprender bien un problema o una necesidad.
 
 Nos ayuda a:
 
-- 👥 Conocer a las personas que tienen el problema.
-- 🔎 Comprender sus necesidades.
-- 💡 Generar diferentes ideas.
-- 🛠️ Crear prototipos.
-- 🧪 Probar nuestras propuestas.
-- 🔄 Mejorarlas a partir de los resultados.
+-  Conocer a las personas que tienen el problema.
+-  Comprender sus necesidades.
+-  Generar diferentes ideas.
+-  Crear prototipos.
+-  Probar nuestras propuestas.
+-  Mejorarlas a partir de los resultados.
 
 ### ¿Cuándo lo utilizamos?
 
@@ -55,19 +55,19 @@ Podemos utilizar **Design Thinking al principio de un proyecto**, especialmente 
 
 ---
 
-## ⚡ Agile
+##  Agile
 
 **Agile** resulta especialmente útil cuando ya tenemos un objetivo y necesitamos **organizar el trabajo para desarrollar la solución**, especialmente cuando el proyecto es complejo o puede cambiar durante su desarrollo.
 
 Nos ayuda a:
 
-- 📋 Dividir el proyecto en tareas.
-- 👥 Organizar el trabajo del equipo.
-- ⏱️ Gestionar el tiempo.
-- 🔄 Trabajar por etapas.
-- 🧪 Revisar los resultados.
-- 🚀 Adaptarnos a los cambios.
-- 💡 Mejorar continuamente.
+-  Dividir el proyecto en tareas.
+-  Organizar el trabajo del equipo.
+-  Gestionar el tiempo.
+-  Trabajar por etapas.
+-  Revisar los resultados.
+-  Adaptarnos a los cambios.
+-  Mejorar continuamente.
 
 ### ¿Cuándo lo utilizamos?
 
@@ -99,7 +99,7 @@ Podemos imaginar el desarrollo de un proyecto como un viaje:
           🧪 Revisar + Mejorar
                   ↓
              🚀 RESULTADO
-``
+```  
 # ⚡ Metodología Agile
 
 ## 🚀 ¿Qué es Agile?
