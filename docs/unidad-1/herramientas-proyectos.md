@@ -246,4 +246,215 @@ Agile = Adaptarnos + Colaborar + Avanzar + Revisar + Mejorar
 
 No buscamos que el proyecto sea perfecto desde el principio.
 
+
+# 🎨 Design Thinking
+
+## 💡 ¿Qué es Design Thinking?
+
+**Design Thinking** es una metodología que nos ayuda a **buscar soluciones creativas a problemas y necesidades reales**, poniendo a las personas en el centro del proceso.
+
+Su objetivo no es encontrar rápidamente una solución, sino **comprender bien el problema, generar diferentes ideas, probarlas y mejorarlas** hasta conseguir una propuesta que responda a las necesidades detectadas.
+
+> 💡 **Design Thinking nos ayuda a pasar de un problema a una solución.**
+
+---
+
+## 🤔 ¿Cuándo utilizamos Design Thinking?
+
+Utilizamos Design Thinking especialmente cuando:
+
+- 🔎 No conocemos bien el problema.
+- 👥 Necesitamos comprender las necesidades de las personas.
+- 💡 Existen diferentes soluciones posibles.
+- 🧠 Queremos generar ideas creativas.
+- 🛠️ Necesitamos probar nuestras propuestas antes de construir la solución definitiva.
+- 🔄 Queremos mejorar una solución a partir de las opiniones y resultados obtenidos.
+
+Por ejemplo, si queremos diseñar un producto para mejorar la vida del alumnado de nuestro centro, antes de empezar a construirlo necesitamos saber:
+
+> **¿Qué problema tienen? ¿Qué necesitan realmente? ¿Qué solución les resultaría útil?**
+
+---
+
+# 🔄 Las fases de Design Thinking
+
+Aunque podemos encontrar diferentes representaciones, normalmente se trabaja mediante **cinco fases**:
+
+```text
+👥 EMPATIZAR
+      ↓
+🎯 DEFINIR
+      ↓
+💡 IDEAR
+      ↓
+🛠️ PROTOTIPAR
+      ↓
+🧪 EVALUAR
+      ↓
+     🔄
+   MEJORAR
+
 Buscamos avanzar, aprender y mejorar. 🔄
+
+
+
+Estas fases no tienen por qué seguir siempre un orden rígido. Podemos volver a una fase anterior cuando descubrimos nueva información.
+
+👥 1. Empatizar
+
+El primer paso es comprender a las personas que tienen el problema o necesidad.
+
+No debemos comenzar pensando directamente en nuestra solución. Primero tenemos que escuchar, observar y preguntar.
+
+Podemos utilizar:
+
+🗣️ Entrevistas.
+📝 Encuestas.
+👀 Observación.
+📋 Cuestionarios.
+💬 Conversaciones.
+🎯 Nuestro objetivo
+
+Intentar responder:
+
+¿Quién tiene el problema y qué necesita realmente?
+
+🎯 2. Definir
+
+Después de investigar, debemos concretar cuál es realmente el problema que queremos resolver.
+
+La información obtenida en la fase anterior nos ayudará a seleccionar las necesidades más importantes.
+
+Un buen problema debe estar:
+
+🎯 Bien definido.
+👥 Relacionado con las personas.
+🔎 Basado en la información recogida.
+🚀 Orientado a buscar una solución.
+💡 Ejemplo
+
+En lugar de decir:
+
+❌ "Queremos mejorar el patio."
+
+Podemos definir:
+
+✅ "El alumnado necesita disponer de más espacios para realizar actividades tranquilas durante el recreo."
+
+La segunda formulación nos ayuda mucho más a pensar en posibles soluciones.
+
+💡 3. Idear
+
+Una vez definido el problema, llega el momento de generar posibles soluciones.
+
+En esta fase buscamos muchas ideas antes de decidir cuál utilizaremos.
+
+Podemos utilizar técnicas como:
+
+🧠 Lluvia de ideas
+🗺️ Mapas mentales
+🔄 SCAMPER
+✏️ Bocetos rápidos
+💬 Debate en equipo
+⚠️ Una regla importante
+
+Durante la generación de ideas debemos evitar juzgarlas demasiado pronto.
+
+Primero:
+
+Cantidad de ideas → después selección.
+
+🛠️ 4. Prototipar
+
+Una vez seleccionada una idea, construimos una primera versión de nuestra solución.
+
+No tiene que ser perfecta.
+
+Un prototipo nos permite:
+
+👀 Visualizar nuestra idea.
+🧪 Comprobar cómo funciona.
+🔎 Detectar problemas.
+💬 Recibir opiniones.
+🔄 Realizar mejoras.
+
+Dependiendo del proyecto, el prototipo puede ser:
+
+✏️ Un dibujo.
+📐 Un plano.
+💻 Un diseño 3D.
+🧱 Una maqueta.
+🔌 Un circuito.
+🤖 Un robot.
+📱 Una interfaz.
+🖨️ Una pieza impresa en 3D.
+
+💡 El objetivo de un prototipo no es demostrar que tenemos razón, sino descubrir qué podemos mejorar.
+
+🧪 5. Evaluar
+
+Finalmente, debemos probar nuestra solución y comprobar si realmente responde al problema.
+
+Podemos pedir a otras personas que utilicen nuestro prototipo y nos den su opinión.
+
+Nos preguntaremos:
+
+❓ ¿Funciona?
+🎯 ¿Resuelve el problema?
+👥 ¿Responde a las necesidades de las personas?
+👍 ¿Qué funciona bien?
+🔧 ¿Qué podemos mejorar?
+
+Los resultados de esta fase pueden llevarnos de nuevo a cualquiera de las fases anteriores.
+
+🔄 Un proceso que se repite
+
+Una de las características más importantes de Design Thinking es que no es un proceso lineal.
+
+Podemos descubrir durante la evaluación que nuestro problema estaba mal definido, que nuestra idea no funciona o que las personas necesitan otra cosa.
+
+Por eso podemos volver atrás:
+
+      👥 EMPATIZAR
+           ↓
+       🎯 DEFINIR
+           ↓
+        💡 IDEAR
+           ↓
+      🛠️ PROTOTIPAR
+           ↓
+       🧪 EVALUAR
+           ↓
+        ¿FUNCIONA?
+        ↙       ↘
+      NO         SÍ
+      ↓           ↓
+   🔄 MEJORAR   🚀 SOLUCIÓN
+      ↓
+   VOLVER A
+   INTENTAR
+
+🚀 Equivocarse durante el proceso no es un fracaso. Nos proporciona información para mejorar nuestra solución.
+
+🧩 Design Thinking en nuestros proyectos
+
+Cuando realicemos un proyecto tecnológico podemos utilizar Design Thinking para pasar de una necesidad real a una solución.
+
+Nuestro recorrido será:
+Fase	Pregunta que nos hacemos
+👥 Empatizar	¿Quién tiene el problema?
+🎯 Definir	¿Cuál es realmente el problema?
+💡 Idear	¿Qué soluciones podemos imaginar?
+🛠️ Prototipar	¿Cómo podemos representar o construir nuestra idea?
+🧪 Evaluar	¿Funciona y responde a la necesidad?
+🧠 Recuerda
+
+Design Thinking = comprender + definir + idear + prototipar + evaluar + mejorar
+
+No se trata simplemente de tener ideas.
+
+Se trata de comprender un problema, diseñar soluciones, probarlas y aprender de los resultados.
+
+🎯 La pregunta clave
+
+¿Cómo podemos crear una solución que realmente sea útil para las personas?
