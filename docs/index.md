@@ -12,15 +12,15 @@ El programa formativo se estructura en **8 unidades didácticas y bloques de tra
 
 !!! info "Estructura del Programa"
 
-    1. **Unidad 1. Pensamiento Computacional:** Algoritmos, diagramas de flujo y tecnologías emergentes....
+    1. **Unidad 1. El Proceso Tecnológico:** Metodología de proyectos, fases de diseño y memoria técnica.
     
-    2. **Unidad 2. El Proceso Tecnológico:** Metodología de proyectos, fases de diseño y memoria técnica.
+    2. **Unidad 2. Electrónica Analógica:** Componentes básicos, ley de Ohm y simulación de circuitos.
     
-    3. **Unidad 3. Electrónica Analógica:** Componentes básicos, ley de Ohm y simulación de circuitos.
+    3. **Unidad 3. Electrónica Digital:** Álgebra de Boole, puertas lógicas y sistemas combinacionales.
     
-    4. **Unidad 4. Electrónica Digital:** Álgebra de Boole, puertas lógicas y sistemas combinacionales.
+    4. **Unidad 4. Automatización:** Control de pines digital/analógico, sensores, actuadores y motores.
     
-    5. **Unidad 5. Automatización:** Control de pines digital/analógico, sensores, actuadores y motores.
+    5. **Unidad 5. Pensamiento Computacional:** Algoritmos, diagramas de flujo y tecnologías emergentes....
     
     6. **Unidad 6. Tecnología Sostenible, Diseño y Fabricación:** Arquitectura bioclimática, materiales y modelado/impresión 3D.
     
