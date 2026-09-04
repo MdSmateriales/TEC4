@@ -24,8 +24,9 @@ theme:
 nav:
   - Inicio: index.md
   - Unidad 1. Proceso Tecnológico:
-      - Metodología y Fases: unidad-1/metodologia-proyectos.md
-      - Memoria Técnica: unidad-1/memoria.md
+      - Fases: unidad-1/metodologia-proyectos.md
+      - Herramientas para la gestión de proyectos: unidad-1/herramientas-proyectos.md
+      - Metodologías de planificación de proyectos: unidad-1/planificacion-proyectos.md
   - Unidad 2. Electrónica analógica:
       - Componentes y Ley de Ohm: unidad-2/analogica.md
       - Esquemas y Circuitos: unidad-2/simulacion.md
