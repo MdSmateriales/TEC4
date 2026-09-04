@@ -10,7 +10,7 @@ En esta wiki encontrarás los contenidos teóricos, guías prácticas de taller,
 
 El programa formativo se estructura en **8 unidades didácticas y bloques de trabajo**:
 
-!!! info "Estructura del Programa"
+!!! "Estructura del Programa"
 
     1. **Unidad 1. El Proceso Tecnológico:** Metodología de proyectos, fases de diseño y memoria técnica.
     
