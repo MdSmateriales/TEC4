@@ -4,26 +4,26 @@ Cuando realizamos un proyecto tecnológico, tener una buena idea es solo el prin
 
 Los proyectos suelen incluir muchas tareas diferentes y, en ocasiones, participan varias personas. Por eso es necesario utilizar **metodologías de trabajo** que nos ayuden a organizar el proceso y a avanzar de una manera ordenada.
 
-## 🤔 ¿Por qué necesitamos una metodología?
+##  ¿Por qué necesitamos una metodología?
 
 Una metodología nos proporciona una **forma de organizar el trabajo**. Nos ayuda a saber:
 
-- 🎯 Qué queremos conseguir.
-- 🔎 Qué problema o necesidad queremos resolver.
-- 📋 Qué tareas tenemos que realizar.
-- 👥 Cómo organizamos el trabajo en equipo.
-- 🧰 Qué recursos necesitamos.
-- ⏱️ Cuánto tiempo tenemos.
-- 🔄 Cómo comprobamos nuestros resultados.
-- 💡 Cómo podemos mejorar nuestra solución.
+-  Qué queremos conseguir.
+-  Qué problema o necesidad queremos resolver.
+-  Qué tareas tenemos que realizar.
+-  Cómo organizamos el trabajo en equipo.
+-  Qué recursos necesitamos.
+-  Cuánto tiempo tenemos.
+-  Cómo comprobamos nuestros resultados.
+-  Cómo podemos mejorar nuestra solución.
 
 Sin una planificación y una metodología, podemos encontrarnos con tareas que se repiten, recursos mal utilizados, problemas de comunicación o retrasos.
 
-> 💡 **Una metodología no nos dice exactamente qué solución debemos crear, sino cómo podemos organizar el camino para llegar a ella.**
+>  **Una metodología no nos dice exactamente qué solución debemos crear, sino cómo podemos organizar el camino para llegar a ella.**
 
 ---
 
-# 🧠 Dos metodologías para nuestros proyectos
+#  Dos metodologías para nuestros proyectos
 
 Durante este curso vamos a conocer y aplicar dos metodologías especialmente útiles para desarrollar proyectos:
 
@@ -77,7 +77,7 @@ Podemos utilizar **Agile durante el desarrollo del proyecto**, cuando necesitamo
 
 ---
 
-# 🔗 ¿Cómo se complementan?
+#  ¿Cómo se complementan?
 
 Las dos metodologías pueden utilizarse juntas.
 
@@ -99,7 +99,7 @@ Podemos imaginar el desarrollo de un proyecto como un viaje:
           🧪 Revisar + Mejorar
                   ↓
              🚀 RESULTADO
-
+``
 # ⚡ Metodología Agile
 
 ## 🚀 ¿Qué es Agile?
