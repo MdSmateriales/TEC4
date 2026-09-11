@@ -159,6 +159,7 @@ Representar cómo estarán conectados los componentes.
 ## 4.3. Diagrama de flujo
 
 El funcionamiento puede representarse mediante:
+```text
 
              INICIO
                 │
@@ -177,6 +178,7 @@ El funcionamiento puede representarse mediante:
                │
                ▼
       Volver a comprobar
+```
 
 # 5. Planificar las tareas
 
@@ -222,7 +224,7 @@ Antes de comenzar la construcción debemos determinar qué recursos necesitamos 
 - Cartón, madera u otros materiales reciclados.
 - Pegamento.
 - Cinta adhesiva.
-- Micro:bit.
+- Micro:bit. 
 - Cables.
 - Elementos electrónicos necesarios.
 - Material para construir la puerta.
@@ -251,7 +253,7 @@ Dependiendo de la solución elegida, podemos utilizar:
 
 ## Software
 
-- **MakeCode**, para programar la micro:bit.
+- **MakeCode, C, J...**, para programar la micro:bit.
 
 ## Otros recursos
 
@@ -270,7 +272,7 @@ También debemos tener en cuenta:
 | **Materiales** | Madera, cartón, plástico, pegamento |
 | **Herramientas** | Tijeras, regla, cutter |
 | **Componentes** | Micro:bit, cables, sensores, LED |
-| **Software** | MakeCode |
+| **Software** | MakeCode,, C, J... |
 | **Espacio** | Aula-taller |
 | **Conocimientos** | Electricidad, estructuras, mecanismos y programación |
 | **Recursos económicos** | Presupuesto disponible para comprar materiales |
@@ -379,6 +381,7 @@ Comprobar estado de la puerta
   └── NO → No mostrar aviso
   ↓
 Volver a comprobar
+```
 
 ### 8.5. Integración del sistema
 
