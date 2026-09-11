@@ -22,7 +22,278 @@ Sin una planificación y una metodología, podemos encontrarnos con tareas que s
 >  **Una metodología no nos dice exactamente qué solución debemos crear, sino cómo podemos organizar el camino para llegar a ella.**
 
 ---
+#  Metodología en Cascada (Waterfall)
 
+##  ¿Qué es?
+
+La **metodología en cascada**, también conocida como **Waterfall**, es una forma de organizar un proyecto en la que el trabajo se divide en **fases que se realizan de manera secuencial**.
+
+Esto significa que, normalmente, **no se comienza una fase hasta haber terminado la anterior**.
+
+El proyecto avanza como una cascada: el resultado de una fase sirve como punto de partida para la siguiente.
+
+```text
+Necesidades
+     ↓
+Planificación
+     ↓
+Diseño
+     ↓
+Desarrollo / Construcción
+     ↓
+Pruebas
+     ↓
+Puesta en funcionamiento
+     ↓
+Mantenimiento
+``` 
+¿Para qué sirve?
+
+La metodología Waterfall permite organizar proyectos de forma clara y ordenada, definiendo desde el principio qué se quiere conseguir, qué tareas hay que realizar y en qué orden se van a desarrollar.
+
+Es especialmente útil cuando:
+
+El problema está bien definido.
+Los requisitos son conocidos desde el principio.
+Los cambios durante el proyecto son poco frecuentes.
+Las tareas tienen un orden lógico.
+Es necesario disponer de una planificación detallada.
+
+# Fases de la metodología Waterfall  
+1. Análisis de necesidades
+
+En primer lugar debemos determinar qué problema queremos resolver y qué necesita nuestro proyecto.
+
+Nos preguntamos:
+
+¿Qué queremos conseguir?
+¿Qué problema tenemos?
+¿Quién utilizará la solución?
+¿Qué requisitos debe cumplir?
+
+**Resultado**
+
+Una lista de necesidades y requisitos.
+
+2.  Planificación
+
+Una vez conocemos las necesidades, organizamos el proyecto.
+
+Debemos definir:
+
+Objetivos.
+Tareas.
+Responsables.
+Recursos.
+Tiempos.
+Costes, si son necesarios.
+
+**Resultado**
+
+Un plan de proyecto.
+
+3.  Diseño
+
+Antes de construir la solución debemos diseñarla.
+
+Dependiendo del proyecto podemos realizar:
+
+ Bocetos.
+ Planos.
+ Esquemas eléctricos.
+ Diagramas.
+ Modelos 3D.
+ Especificaciones técnicas.
+**Resultado**
+Un diseño detallado de la solución.
+
+4.  Desarrollo o construcción
+
+En esta fase se lleva a cabo lo que se ha diseñado.
+
+El equipo utiliza los recursos disponibles para construir o desarrollar la solución.
+
+Por ejemplo:
+
+Fabricar una pieza.
+Montar un circuito.
+Programar un sistema.
+Construir una maqueta.
+Montar un robot.
+**Resultado**
+
+Una primera versión de la solución.
+
+5.  Pruebas
+
+Una vez desarrollada la solución, comprobamos si funciona correctamente.
+
+Realizamos diferentes pruebas para detectar:
+
+❌ Errores.
+⚠️ Problemas.
+🔧 Fallos de funcionamiento.
+📋 Incumplimientos de los requisitos.
+📦 Resultado
+
+Un listado de errores y aspectos que deben corregirse.
+
+6.  Puesta en funcionamiento
+
+Cuando la solución ha superado las pruebas, podemos ponerla en funcionamiento.
+
+Es el momento en el que el producto o sistema comienza a utilizarse para resolver el problema inicial.
+
+**Resultado**
+
+Solución terminada y funcionando.
+
+7.  Mantenimiento
+
+Una vez terminado el proyecto, pueden aparecer problemas o ser necesarias pequeñas modificaciones.
+
+En esta fase podemos:
+
+Corregir errores.
+Realizar reparaciones.
+Actualizar componentes.
+Mejorar algunos aspectos.
+🗂️ Resumen de las fases
+Fase	¿Qué hacemos?	Resultado
+🔎 Análisis	Identificamos necesidades	Requisitos
+📅 Planificación	Organizamos el proyecto	Plan
+📐 Diseño	Diseñamos la solución	Diseño
+🛠️ Desarrollo	Construimos la solución	Producto
+🧪 Pruebas	Comprobamos que funciona	Resultados
+🚀 Puesta en funcionamiento	Utilizamos la solución	Solución final
+🔧 Mantenimiento	Corregimos y actualizamos	Mejoras
+🌊 ¿Por qué se llama "Cascada"?
+
+Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abajo, pasando de una fase a la siguiente.
+
+┌─────────────────────┐
+│ 🔎 ANÁLISIS         │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 📅 PLANIFICACIÓN    │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 📐 DISEÑO           │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 🛠️ DESARROLLO       │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 🧪 PRUEBAS          │
+└──────────┬──────────┘
+           ↓
+┌─────────────────────┐
+│ 🚀 FUNCIONAMIENTO   │
+└─────────────────────┘
+
+💡 La idea fundamental es planificar primero y ejecutar después.
+
+⚖️ Ventajas e inconvenientes
+✅ Ventajas
+📋 Es sencilla de entender.
+🎯 Los objetivos y requisitos quedan definidos desde el principio.
+📅 Facilita la planificación.
+👥 Permite repartir claramente las responsabilidades.
+📄 Genera una documentación ordenada.
+⏱️ Facilita estimar tiempos y recursos.
+❌ Inconvenientes
+🔒 Es poco flexible ante cambios.
+🔄 Volver a una fase anterior puede ser complicado.
+🧪 Los problemas pueden descubrirse demasiado tarde.
+💡 Las ideas nuevas pueden ser difíciles de incorporar.
+👥 El usuario puede participar poco durante el desarrollo.
+🆚 Waterfall frente a Agile
+
+Las dos metodologías permiten organizar proyectos, pero tienen enfoques diferentes.
+
+🌊 Waterfall	⚡ Agile
+Planificación detallada inicial	Planificación progresiva
+Fases secuenciales	Trabajo en ciclos
+Los cambios son más difíciles	Los cambios son esperados
+Se intenta definir el resultado desde el principio	El resultado puede evolucionar
+Las pruebas suelen concentrarse al final	Se prueba durante el proceso
+Más adecuado para requisitos estables	Más adecuado para proyectos cambiantes
+
+Podemos resumir la diferencia mediante dos ideas:
+
+🌊 Waterfall: "Primero planificamos y después ejecutamos."
+
+⚡ Agile: "Planificamos, hacemos, comprobamos y adaptamos."
+
+🏗️ Ejemplo: construir una pirámide
+
+Imaginemos que tenemos que construir una pirámide.
+
+Con Waterfall podríamos organizar el proyecto así:
+
+1. Definir las características de la pirámide
+                ↓
+2. Calcular los materiales necesarios
+                ↓
+3. Planificar trabajadores y recursos
+                ↓
+4. Diseñar el sistema de construcción
+                ↓
+5. Construir
+                ↓
+6. Comprobar el resultado
+                ↓
+7. Finalizar el proyecto
+
+La idea es que antes de comenzar la construcción debemos haber definido y planificado las fases anteriores.
+
+Si durante la construcción descubrimos que necesitamos cambiar una decisión importante tomada al principio, hacerlo puede resultar costoso o provocar retrasos.
+
+🧠 ¿Cuándo utilizar Waterfall?
+
+Waterfall puede ser una buena opción cuando:
+
+Tenemos muy claro el resultado final.
+Los requisitos apenas van a cambiar.
+El proyecto tiene fases que deben realizarse en un orden determinado.
+Necesitamos una planificación detallada.
+Los cambios son costosos o difíciles de realizar.
+
+Por ejemplo, puede ser apropiada para determinados proyectos de construcción, fabricación o ingeniería, donde es necesario definir previamente muchas características del proyecto.
+
+🔗 Waterfall dentro de nuestros proyectos
+
+En nuestros proyectos tecnológicos podemos utilizar diferentes metodologías dependiendo de la situación.
+
+                  PROYECTO
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+      🌊 WATERFALL          ⚡ AGILE
+          │                     │
+    Planificar todo        Planificar por etapas
+    antes de ejecutar      y adaptarse
+          │                     │
+          ↓                     ↓
+    Requisitos estables    Cambios frecuentes
+
+También podemos combinar diferentes formas de trabajo cuando las características del proyecto lo requieran.
+
+🧠 Recuerda
+
+🌊 Waterfall organiza el proyecto como una secuencia de fases.
+
+📋 Primero se analiza y planifica.
+
+🛠️ Después se diseña y construye.
+
+🧪 Finalmente se prueba y se pone en funcionamiento.
+
+La principal característica de esta metodología es que cada fase sirve de base para la siguiente y los cambios posteriores pueden resultar más difíciles de realizar.
 #  Dos metodologías para nuestros proyectos
 
 Durante este curso vamos a conocer y aplicar dos metodologías especialmente útiles para desarrollar proyectos:
@@ -100,9 +371,9 @@ Podemos imaginar el desarrollo de un proyecto como un viaje:
                   ↓
              🚀 RESULTADO
 ```  
-# ⚡ Metodología Agile
+#  Metodología Agile
 
-## 🚀 ¿Qué es Agile?
+##  ¿Qué es Agile?
 
 **Agile** es una forma de trabajar que permite organizar y desarrollar proyectos de manera **flexible, colaborativa y adaptada a los cambios**.
 
@@ -110,37 +381,37 @@ A diferencia de una planificación tradicional, en la que se intenta definir tod
 
 La idea fundamental es:
 
-> 💡 **Planificar → Hacer → Comprobar → Mejorar → Repetir**
+>  **Planificar → Hacer → Comprobar → Mejorar → Repetir**
 
 Agile busca que los equipos puedan **adaptarse a los cambios, detectar problemas rápidamente y mejorar continuamente**.
 
 ---
 
-## 🎯 Principios básicos de Agile
+##  Principios básicos de Agile
 
 Cuando trabajamos con Agile intentamos:
 
-- 🤝 **Trabajar en equipo** y comunicarnos.
-- 🎯 **Centrarnos en los objetivos**.
-- 📋 **Dividir el proyecto en tareas pequeñas**.
-- 🔄 **Revisar y mejorar continuamente**.
-- 💬 **Escuchar las opiniones y necesidades** de las personas.
-- 🚀 **Avanzar progresivamente**, obteniendo resultados desde las primeras fases.
-- 🔧 **Adaptarnos a los cambios** cuando sea necesario.
+-  **Trabajar en equipo** y comunicarnos.
+-  **Centrarnos en los objetivos**.
+-  **Dividir el proyecto en tareas pequeñas**.
+-  **Revisar y mejorar continuamente**.
+-  **Escuchar las opiniones y necesidades** de las personas.
+-  **Avanzar progresivamente**, obteniendo resultados desde las primeras fases.
+-  **Adaptarnos a los cambios** cuando sea necesario.
 
 ---
 
-# 🧩 Principales técnicas y marcos de trabajo
+#  Principales técnicas y marcos de trabajo
 
 Agile no es una única metodología. Existen diferentes formas de aplicar sus principios.
 
-## 🟣 Scrum
+##  Scrum
 
 **Scrum** organiza el trabajo en pequeños periodos de tiempo llamados **sprints**.
 
 Durante cada sprint, el equipo selecciona un conjunto de tareas que se compromete a realizar. Al finalizar, revisa el resultado y decide qué debe hacer a continuación.
 
-### 🔄 Funcionamiento básico
+###  Funcionamiento básico
 
 ```text
 PLANIFICAR
@@ -154,15 +425,15 @@ REVISAR
 MEJORAR
     ↓
 NUEVO SPRINT ↺
-
+``` 
 Scrum favorece:
 
-👥 El trabajo en equipo.
-🎯 La definición de objetivos.
-⏱️ La organización del tiempo.
-🔄 La mejora continua.
-💬 La comunicación entre los miembros del equipo.
-🔵 Kanban
+ El trabajo en equipo.
+ La definición de objetivos.
+ La organización del tiempo.
+ La mejora continua.
+ La comunicación entre los miembros del equipo.
+ Kanban
 
 Kanban utiliza un tablero visual para representar el estado de las tareas.
 
@@ -175,13 +446,13 @@ Probar circuito
 
 Las tareas se van desplazando de una columna a otra a medida que avanzamos.
 
-💡 Regla importante
+ Regla importante
 
 Kanban nos ayuda a visualizar el trabajo y evitar tener demasiadas tareas abiertas al mismo tiempo.
 
 Por hacer → En proceso → Terminado
 
-🟢 Lean
+ Lean
 
 Lean busca conseguir el máximo valor utilizando los recursos de la manera más eficiente posible.
 
@@ -202,9 +473,9 @@ Y potenciar:
 ✅ El uso eficiente de los recursos.
 ✅ La calidad del resultado.
 
-💡 Lean nos plantea una pregunta: ¿podemos conseguir el mismo resultado utilizando menos tiempo, materiales o esfuerzo?
+ Lean nos plantea una pregunta: ¿podemos conseguir el mismo resultado utilizando menos tiempo, materiales o esfuerzo?
 
-🔗 Agile, Scrum, Kanban y Lean
+ Agile, Scrum, Kanban y Lean
 
 Podemos entender la relación entre ellos de esta manera:
 
