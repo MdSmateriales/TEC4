@@ -27,7 +27,7 @@ Este proyecto permite trabajar:
 
 # Correspondencia con los pasos para planificar y desarrollar un proyecto
 
-| Paso | ¿Qué harían los alumnos en el proyecto? | Producto o evidencia |
+| Paso | ¿Qué tendríamos que hacer en el proyecto? | Producto o evidencia |
 |---|---|---|
 | **1. Identificar la necesidad o problema** | Detectar que una puerta puede quedarse abierta y nadie darse cuenta. Investigar por qué puede ser un problema. | Descripción del problema |
 | **2. Definir los objetivos** | Establecer qué debe conseguir el sistema: detectar la puerta abierta y avisar al usuario. | Lista de objetivos |
@@ -44,12 +44,11 @@ Este proyecto permite trabajar:
 ---
 
 # 1. Identificar la necesidad o el problema
-
-Los alumnos pueden partir de la siguiente situación:
+Partimos de la siguiente situación:
 
 > **En algunas aulas, las puertas pueden quedar abiertas cuando no deberían. Esto puede provocar molestias, pérdida de climatización o problemas de seguridad. Se necesita un sistema sencillo que avise cuando la puerta esté abierta.**
 
-### Preguntas para el alumnado
+### Preguntas que debemos hacernos
 
 - ¿Cuál es el problema?
 - ¿A quién afecta?
@@ -69,7 +68,7 @@ Los objetivos del proyecto podrían ser:
 
 1. Construir una pequeña maqueta de una puerta.
 2. Diseñar un sistema capaz de detectar si la puerta está abierta.
-3. Programar la micro:bit mediante **MakeCode**.
+3. Programar la micro:bit mediante **MakeCode o C o Java u otro lenguaje de programación**.
 4. Mostrar un aviso cuando la puerta esté abierta.
 5. Conseguir que el sistema sea sencillo, económico y fácil de utilizar.
 
@@ -77,11 +76,11 @@ Es importante que los objetivos sean **claros y comprobables**.
 
 ### Ejemplo
 
-❌ Objetivo poco concreto:
+ ❌ Objetivo poco concreto:
 
 > Hacer una puerta muy buena.
 
-✅ Objetivo adecuado:
+ ✅ Objetivo adecuado:
 
 > Conseguir que el sistema avise cuando la puerta permanezca abierta.
 
@@ -126,9 +125,7 @@ Finalmente, el grupo debe **seleccionar una solución y justificar su elección*
 
 # 4. Diseñar la solución
 
-En esta fase se conecta el proyecto con la **expresión gráfica en tecnología**.
-
-Antes de construir, los alumnos deben representar cómo será su solución.
+Antes de construir, debemos representar cómo será la solución.
 
 ## 4.1. Boceto
 
@@ -153,6 +150,8 @@ Ejemplo simplificado:
         │             └──────┘ │
         │                      │
         └──────────────────────┘
+``` 
+
 ## 4.2. Esquema
 
 Representar cómo estarán conectados los componentes.
