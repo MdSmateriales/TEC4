@@ -25,6 +25,7 @@ nav:
   - Inicio: index.md
   - Unidad 1. Proceso Tecnológico:
       - Fases: unidad-1/metodologia-proyectos.md
+      - Ejemplo de pasos de un proyecto: unidad-1/ej0.md
       - Ejercicio de planificación: unidad-1/ej1.md
       - Herramientas para la gestión de proyectos: unidad-1/herramientas-proyectos.md
       - Metodologías de planificación de proyectos: unidad-1/planificacion-proyectos.md
