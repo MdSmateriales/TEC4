@@ -60,7 +60,7 @@ Las tareas tienen un orden lógico.
 Es necesario disponer de una planificación detallada.
 
 # Fases de la metodología Waterfall  
-1. Análisis de necesidades
+## 1. Análisis de necesidades
 
 En primer lugar debemos determinar qué problema queremos resolver y qué necesita nuestro proyecto.
 
@@ -71,11 +71,9 @@ Nos preguntamos:
 ¿Quién utilizará la solución?
 ¿Qué requisitos debe cumplir?
 
-**Resultado**
+**Resultado**: Una lista de necesidades y requisitos.
 
-Una lista de necesidades y requisitos.
-
-2.  Planificación
+## 2.  Planificación
 
 Una vez conocemos las necesidades, organizamos el proyecto.
 
@@ -88,11 +86,9 @@ Recursos.
 Tiempos.
 Costes, si son necesarios.
 
-**Resultado**
+**Resultado**: Un plan de proyecto.
 
-Un plan de proyecto.
-
-3.  Diseño
+## 3.  Diseño
 
 Antes de construir la solución debemos diseñarla.
 
@@ -104,10 +100,9 @@ Dependiendo del proyecto podemos realizar:
  Diagramas.
  Modelos 3D.
  Especificaciones técnicas.
-**Resultado**
-Un diseño detallado de la solución.
+**Resultado**: Un diseño detallado de la solución.
 
-4.  Desarrollo o construcción
+## 4.  Desarrollo o construcción
 
 En esta fase se lleva a cabo lo que se ha diseñado.
 
@@ -121,34 +116,29 @@ Programar un sistema.
 Construir una maqueta.
 Montar un robot.
 
-**Resultado**
-Una primera versión de la solución.
+**Resultado**: Una primera versión de la solución.
 
-5.  Pruebas
+## 5.  Pruebas
 
 Una vez desarrollada la solución, comprobamos si funciona correctamente.
 
 Realizamos diferentes pruebas para detectar:
 
-❌ Errores.
-⚠️ Problemas.
-🔧 Fallos de funcionamiento.
-📋 Incumplimientos de los requisitos.
-📦 Resultado
+ Errores.
+ Problemas.
+ Fallos de funcionamiento.
+ Incumplimientos de los requisitos.
+**Resultado**: Un listado de errores y aspectos que deben corregirse.
 
-Un listado de errores y aspectos que deben corregirse.
-
-6.  Puesta en funcionamiento
+## 6.  Puesta en funcionamiento
 
 Cuando la solución ha superado las pruebas, podemos ponerla en funcionamiento.
 
 Es el momento en el que el producto o sistema comienza a utilizarse para resolver el problema inicial.
 
-**Resultado**
+**Resultado**: Solución terminada y funcionando.
 
-Solución terminada y funcionando.
-
-7.  Mantenimiento
+## 7.  Mantenimiento
 
 Una vez terminado el proyecto, pueden aparecer problemas o ser necesarias pequeñas modificaciones.
 
@@ -160,7 +150,7 @@ Actualizar componentes.
 Mejorar algunos aspectos.
 
 
-## 🗂️ Resumen de las fases
+##  Resumen de las fases
 
 | Fase | ¿Qué hacemos? | Resultado |
 |---|---|---|
@@ -204,7 +194,7 @@ Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abaj
 ``` 
 💡 La idea fundamental es planificar primero y ejecutar después.
 
-**Ventajas e inconvenientes**
+## **Ventajas e inconvenientes**
 **Ventajas**
 Es sencilla de entender.
 Los objetivos y requisitos quedan definidos desde el principio.
