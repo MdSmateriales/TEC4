@@ -216,89 +216,10 @@ Volver a una fase anterior puede ser complicado.
 Los problemas pueden descubrirse demasiado tarde.
 Las ideas nuevas pueden ser difíciles de incorporar.
 El usuario puede participar poco durante el desarrollo.
-Waterfall frente a Agile
 
-Las dos metodologías permiten organizar proyectos, pero tienen enfoques diferentes.
 
-🌊 Waterfall	⚡ Agile
-Planificación detallada inicial	Planificación progresiva
-Fases secuenciales	Trabajo en ciclos
-Los cambios son más difíciles	Los cambios son esperados
-Se intenta definir el resultado desde el principio	El resultado puede evolucionar
-Las pruebas suelen concentrarse al final	Se prueba durante el proceso
-Más adecuado para requisitos estables	Más adecuado para proyectos cambiantes
 
-Podemos resumir la diferencia mediante dos ideas:
 
-🌊 Waterfall: "Primero planificamos y después ejecutamos."
-
-⚡ Agile: "Planificamos, hacemos, comprobamos y adaptamos."
-
-🏗️ Ejemplo: construir una pirámide
-
-Imaginemos que tenemos que construir una pirámide.
-
-Con Waterfall podríamos organizar el proyecto así:
-
-1. Definir las características de la pirámide
-                ↓
-2. Calcular los materiales necesarios
-                ↓
-3. Planificar trabajadores y recursos
-                ↓
-4. Diseñar el sistema de construcción
-                ↓
-5. Construir
-                ↓
-6. Comprobar el resultado
-                ↓
-7. Finalizar el proyecto
-
-La idea es que antes de comenzar la construcción debemos haber definido y planificado las fases anteriores.
-
-Si durante la construcción descubrimos que necesitamos cambiar una decisión importante tomada al principio, hacerlo puede resultar costoso o provocar retrasos.
-
-🧠 ¿Cuándo utilizar Waterfall?
-
-Waterfall puede ser una buena opción cuando:
-
-Tenemos muy claro el resultado final.
-Los requisitos apenas van a cambiar.
-El proyecto tiene fases que deben realizarse en un orden determinado.
-Necesitamos una planificación detallada.
-Los cambios son costosos o difíciles de realizar.
-
-Por ejemplo, puede ser apropiada para determinados proyectos de construcción, fabricación o ingeniería, donde es necesario definir previamente muchas características del proyecto.
-
-🔗 Waterfall dentro de nuestros proyectos
-
-En nuestros proyectos tecnológicos podemos utilizar diferentes metodologías dependiendo de la situación.
-
-                  PROYECTO
-                     │
-          ┌──────────┴──────────┐
-          ↓                     ↓
-      🌊 WATERFALL          ⚡ AGILE
-          │                     │
-    Planificar todo        Planificar por etapas
-    antes de ejecutar      y adaptarse
-          │                     │
-          ↓                     ↓
-    Requisitos estables    Cambios frecuentes
-
-También podemos combinar diferentes formas de trabajo cuando las características del proyecto lo requieran.
-
-🧠 Recuerda
-
-🌊 Waterfall organiza el proyecto como una secuencia de fases.
-
-📋 Primero se analiza y planifica.
-
-🛠️ Después se diseña y construye.
-
-🧪 Finalmente se prueba y se pone en funcionamiento.
-
-La principal característica de esta metodología es que cada fase sirve de base para la siguiente y los cambios posteriores pueden resultar más difíciles de realizar.
 #  Dos metodologías para nuestros proyectos
 
 Durante este curso vamos a conocer y aplicar dos metodologías especialmente útiles para desarrollar proyectos:
@@ -734,3 +655,155 @@ Se trata de comprender un problema, diseñar soluciones, probarlas y aprender de
 🎯 La pregunta clave
 
 ¿Cómo podemos crear una solución que realmente sea útil para las personas?
+
+
+
+
+# Waterfall frente a Agile
+
+Las dos metodologías permiten organizar proyectos, pero tienen enfoques diferentes.
+
+🌊 Waterfall	⚡ Agile
+Planificación detallada inicial	Planificación progresiva
+Fases secuenciales	Trabajo en ciclos
+Los cambios son más difíciles	Los cambios son esperados
+Se intenta definir el resultado desde el principio	El resultado puede evolucionar
+Las pruebas suelen concentrarse al final	Se prueba durante el proceso
+Más adecuado para requisitos estables	Más adecuado para proyectos cambiantes
+
+Podemos resumir la diferencia mediante dos ideas:
+
+🌊 Waterfall: "Primero planificamos y después ejecutamos."
+
+⚡ Agile: "Planificamos, hacemos, comprobamos y adaptamos."
+
+🏗️ Ejemplo: construir una pirámide
+
+Imaginemos que tenemos que construir una pirámide.
+
+Con Waterfall podríamos organizar el proyecto así:
+
+1. Definir las características de la pirámide
+                ↓
+2. Calcular los materiales necesarios
+                ↓
+3. Planificar trabajadores y recursos
+                ↓
+4. Diseñar el sistema de construcción
+                ↓
+5. Construir
+                ↓
+6. Comprobar el resultado
+                ↓
+7. Finalizar el proyecto
+
+La idea es que antes de comenzar la construcción debemos haber definido y planificado las fases anteriores.
+
+Si durante la construcción descubrimos que necesitamos cambiar una decisión importante tomada al principio, hacerlo puede resultar costoso o provocar retrasos.
+
+🧠 ¿Cuándo utilizar Waterfall?
+
+Waterfall puede ser una buena opción cuando:
+
+Tenemos muy claro el resultado final.
+Los requisitos apenas van a cambiar.
+El proyecto tiene fases que deben realizarse en un orden determinado.
+Necesitamos una planificación detallada.
+Los cambios son costosos o difíciles de realizar.
+
+Por ejemplo, puede ser apropiada para determinados proyectos de construcción, fabricación o ingeniería, donde es necesario definir previamente muchas características del proyecto.
+
+🔗 Waterfall dentro de nuestros proyectos
+
+En nuestros proyectos tecnológicos podemos utilizar diferentes metodologías dependiendo de la situación.
+
+                  PROYECTO
+                     │
+          ┌──────────┴──────────┐
+          ↓                     ↓
+      🌊 WATERFALL          ⚡ AGILE
+          │                     │
+    Planificar todo        Planificar por etapas
+    antes de ejecutar      y adaptarse
+          │                     │
+          ↓                     ↓
+    Requisitos estables    Cambios frecuentes
+
+También podemos combinar diferentes formas de trabajo cuando las características del proyecto lo requieran.
+
+🧠 Recuerda
+
+🌊 Waterfall organiza el proyecto como una secuencia de fases.
+
+📋 Primero se analiza y planifica.
+
+🛠️ Después se diseña y construye.
+
+🧪 Finalmente se prueba y se pone en funcionamiento.
+
+La principal característica de esta metodología es que cada fase sirve de base para la siguiente y los cambios posteriores pueden resultar más difíciles de realizar.
+
+
+## 🌊 Waterfall vs 💡 Design Thinking vs 🔄 Agile
+
+| Aspecto | 🌊 **Waterfall** | 💡 **Design Thinking** | 🔄 **Agile** |
+|---|---|---|---|
+| **Objetivo principal** | Desarrollar una solución siguiendo un plan definido | Encontrar una solución adecuada a una necesidad | Desarrollar y mejorar una solución de forma rápida y flexible |
+| **Centro de atención** | El **plan y los requisitos** | Las **personas y sus necesidades** | El **equipo, el producto y el valor que aporta** |
+| **Forma de trabajar** | Secuencial | Iterativa | Iterativa |
+| **Ideas** | Se define una solución al principio | Se generan **varias alternativas** | Se trabaja sobre una solución que se va mejorando |
+| **Prototipos** | Normalmente al final o en fases posteriores | Son fundamentales y se realizan pronto | Se busca obtener versiones funcionales rápidamente |
+| **Pruebas** | Principalmente después del desarrollo | Se prueba durante el proceso | Se prueba continuamente |
+| **Cambios** | Más difíciles de incorporar | Son esperados | Son esperados y forman parte del proceso |
+| **Trabajo en equipo** | Puede estar organizado por fases | Colaboración y creatividad | **Muy importante**, con tareas y responsabilidades compartidas |
+| **Resultado** | Producto terminado según el plan | Solución validada con los usuarios | Producto que se va mejorando progresivamente |
+
+puedes combinar Design Thinking con Waterfall, pero hay un matiz importante: no son metodologías incompatibles, porque pueden utilizarse para partes diferentes del proyecto.
+
+Una forma sencilla de verlo es:
+
+🌊 Waterfall organiza el proyecto
+
+Define una secuencia de fases:
+
+Analizar → Diseñar → Planificar → Construir → Probar → Entregar
+
+💡 Design Thinking ayuda a diseñar la solución
+
+Dentro de las primeras fases puedes utilizar:
+
+Empatizar → Definir → Idear → Prototipar → Probar
+
+Por ejemplo, para la máquina arcade:
+
+🌊 WATERFALL
+│
+├── 🔎 ANALIZAR
+│     └── 💡 DESIGN THINKING
+│          Empatizar → Definir → Idear
+│
+├── 📐 DISEÑAR
+│     └── Prototipar → Probar
+│
+├── 📋 PLANIFICAR
+│
+├── 🔨 CONSTRUIR
+│
+├── 🧪 PROBAR
+│
+└── 🏁 ENTREGAR
+⚠️ ¿Dónde está la diferencia?
+
+Si utilizas Design Thinking dentro de Waterfall, puedes hacer que la fase de diseño sea bastante iterativa. Pero una vez que has terminado el diseño y pasas a la construcción siguiendo Waterfall, no esperas estar cambiando continuamente los requisitos.
+
+En cambio, con Agile, la iteración continúa durante todo el desarrollo:
+
+Diseñar → Construir → Probar → Mejorar → Construir → Probar → Mejorar...
+
+Por eso:
+
+💡 Design Thinking y Waterfall pueden combinarse.
+Design Thinking puede ayudarnos a encontrar y validar una solución antes de comenzar su desarrollo.
+
+🔄 Design Thinking y Agile también pueden combinarse.
+Design Thinking ayuda a descubrir qué solución desarrollar, mientras que Agile ayuda a organizar cómo desarrollarla y mejorarla progresivamente.
