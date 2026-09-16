@@ -17,6 +17,8 @@ Además, conoceremos diferentes formas de organizar y desarrollar proyectos que 
 
 ##  Metodologías que vamos a conocer
 
+###  Método tradicional
+
 ###  Design Thinking
 
 ###  Agile
@@ -33,7 +35,7 @@ A lo largo del proyecto utilizaremos estas metodologías para **trabajar en equi
 
 ## Objetivos de Aprendizaje
 
-En esta unidad abordaremos la gestión integral de proyectos tecnológicos combinando marcos de diseño ágil (*Design Thinking*) con la planificación técnica tradicional.
+En esta unidad abordaremos la gestión integral de proyectos tecnológicos combinando marcos de diseño ágil (*Design Thinking, agile*) con la planificación técnica tradicional, y vamos a centrarnos en:
 
 ### 1. Fase de Descubrimiento y Diseño Centrado en el Usuario (*Design Thinking*)
 * **Identificación de requisitos y necesidades:** Analizar los problemas reales y las especificaciones del cliente o usuario final para acotar el alcance del proyecto.
@@ -56,6 +58,30 @@ Un **proyecto** es un conjunto de actividades relacionadas que se realizan para 
 La **planificación de un proyecto** consiste en organizar de forma anticipada las tareas y recursos necesarios para alcanzar unos objetivos dentro de un tiempo determinado. Una buena planificación nos permite **coordinar los diferentes procesos, completar las tareas de forma ordenada y alcanzar los objetivos previstos en el tiempo disponible**.
 
 En nuestros proyectos utilizaremos herramientas y metodologías que nos ayudarán a trabajar de forma organizada, colaborativa y flexible, como **Design Thinking** y **Agile**.
+Estas metodologías nos permitirán comprender mejor los problemas, generar ideas, trabajar en equipo, probar nuestras soluciones y mejorarlas de forma continua.
+
+***Método tradicional o modelo en cascada
+En el modelo en cascada, primero se planifica y diseña la solución y después se pasa a la construcción y comprobación.
+Los pasos secuenciales son en resumen: Necesidad → Diseño → Planificación → Construcción → Prueba → Resultado
+La característica principal es que se intenta definir la solución antes de comenzar a construirla y los cambios posteriores pueden resultar más costosos.
+
+***Design Thinking
+Nos ayuda a comprender un problema o necesidad y diseñar soluciones pensando en las personas que las van a utilizar mediante la secuencia de procesos:
+Empatizar → Definir → Idear → Prototipar → Probar
+
+***Agile
+Nos ayuda a organizar el trabajo en equipo mediante pequeñas etapas, revisando continuamente lo que hacemos y adaptándonos a los cambios.
+Planificar → Hacer → Revisar → Mejorar → Repetir
+
+*** Relación con el proceso tecnológico
+
+Proceso tecnológico:  nos proporciona las fases para desarrollar una solución.
+
+Design Thinking: nos ayuda especialmente a comprender el problema y generar soluciones.
+
+Agile: nos ayuda a organizar el trabajo, avanzar por etapas y mejorar continuamente.
+
+Son pues metodologías que pueden combinarse para desarrollar proyectos tecnológicos. Para aplicar estas metodologías utilizaremos diferentes herramientas, como mapas de empatía, lluvia de ideas, prototipos, tableros Kanban y listas de tareas que luego veremos.
 
 
 ##  Pasos para planificar y desarrollar un proyecto
