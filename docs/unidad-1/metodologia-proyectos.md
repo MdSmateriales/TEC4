@@ -61,6 +61,7 @@ En nuestros proyectos utilizaremos herramientas y metodologías que nos ayudará
 Estas metodologías nos permitirán comprender mejor los problemas, generar ideas, trabajar en equipo, probar nuestras soluciones y mejorarlas de forma continua.
 
 ##Método tradicional o modelo en cascada
+
 En el modelo en cascada, primero se planifica y diseña la solución y después se pasa a la construcción y comprobación.
 Los pasos secuenciales son en resumen: Necesidad → Diseño → Planificación → Construcción → Prueba → Resultado
 La característica principal es que se intenta definir la solución antes de comenzar a construirla y los cambios posteriores pueden resultar más costosos.
