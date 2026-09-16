@@ -13,7 +13,7 @@ La **gestión de proyectos** nos ayuda a planificar, desarrollar y evaluar nuest
 
 En este camino aprenderemos que **equivocarse también forma parte del aprendizaje**. Probar, descubrir qué funciona y qué no, recibir opiniones y realizar mejoras son pasos fundamentales para conseguir mejores resultados.
 
-Además, conoceremos diferentes formas de organizar y desarrollar proyectos que se utilizan actualmente en ámbitos educativos y profesionales. En nuestro curso conoceremos dos metodologías nnuevas y recordaremos una:
+Además, conoceremos diferentes formas de organizar y desarrollar proyectos que se utilizan actualmente en ámbitos educativos y profesionales. En nuestro curso conoceremos dos metodologías nuevas y recordaremos una:
 
 ##  Metodologías que vamos a revisar el presente curso
 
