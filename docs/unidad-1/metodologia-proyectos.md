@@ -18,9 +18,7 @@ Además, conoceremos diferentes formas de organizar y desarrollar proyectos que 
 ##  Metodologías que vamos a revisar el presente curso
 
 ###  Método tradicional
-
 ###  Design Thinking
-
 ###  Agile
 
 ---
@@ -48,9 +46,7 @@ En esta unidad abordaremos la gestión integral de proyectos tecnológicos combi
 * **Metodologías de gestión:** Comparar enfoques tradicionales (cascada/predictivo) frente a metodologías ágiles.
 * **Programación de tareas y cronogramas:** Diseñar e interpretar **Diagramas de Gantt** para determinar el flujo de trabajo, las dependencias entre tareas y la ruta crítica de plazos.
 
-
 #  Proyectos y planificación
-
 En Tecnología, muchas de las soluciones que utilizamos en nuestra vida cotidiana son el resultado de un **proyecto**. Diseñar un producto, construir un sistema, programar un dispositivo o desarrollar una solución para mejorar nuestro entorno requiere algo más que tener una buena idea: es necesario **organizar el trabajo y tomar decisiones de forma planificada**.
 
 Un **proyecto** es un conjunto de actividades relacionadas que se realizan para conseguir un resultado o solucionar un problema concreto. Para desarrollarlo correctamente necesitamos saber **qué queremos conseguir, qué tenemos que hacer, quién lo hará, qué recursos necesitamos y cuánto tiempo tenemos**.
