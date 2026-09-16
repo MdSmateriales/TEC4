@@ -120,8 +120,8 @@ Montar un circuito.
 Programar un sistema.
 Construir una maqueta.
 Montar un robot.
-**Resultado**
 
+**Resultado**
 Una primera versión de la solución.
 
 5.  Pruebas
@@ -158,16 +158,21 @@ Corregir errores.
 Realizar reparaciones.
 Actualizar componentes.
 Mejorar algunos aspectos.
-🗂️ Resumen de las fases
-Fase	¿Qué hacemos?	Resultado
-🔎 Análisis	Identificamos necesidades	Requisitos
-📅 Planificación	Organizamos el proyecto	Plan
-📐 Diseño	Diseñamos la solución	Diseño
-🛠️ Desarrollo	Construimos la solución	Producto
-🧪 Pruebas	Comprobamos que funciona	Resultados
-🚀 Puesta en funcionamiento	Utilizamos la solución	Solución final
-🔧 Mantenimiento	Corregimos y actualizamos	Mejoras
-🌊 ¿Por qué se llama "Cascada"?
+
+
+## 🗂️ Resumen de las fases
+
+| Fase | ¿Qué hacemos? | Resultado |
+|---|---|---|
+| 🔎 **Análisis** | Identificamos necesidades | Requisitos |
+| 📅 **Planificación** | Organizamos el proyecto | Plan |
+| 📐 **Diseño** | Diseñamos la solución | Diseño |
+| 🛠️ **Desarrollo** | Construimos la solución | Producto |
+| 🧪 **Pruebas** | Comprobamos que funciona | Resultados |
+| 🚀 **Puesta en funcionamiento** | Utilizamos la solución | Solución final |
+| 🔧 **Mantenimiento** | Corregimos y actualizamos | Mejoras |
+
+**¿Por qué se llama "Cascada"?**
 
 Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abajo, pasando de una fase a la siguiente.
 
@@ -197,21 +202,21 @@ Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abaj
 
 💡 La idea fundamental es planificar primero y ejecutar después.
 
-⚖️ Ventajas e inconvenientes
-✅ Ventajas
-📋 Es sencilla de entender.
-🎯 Los objetivos y requisitos quedan definidos desde el principio.
-📅 Facilita la planificación.
-👥 Permite repartir claramente las responsabilidades.
-📄 Genera una documentación ordenada.
-⏱️ Facilita estimar tiempos y recursos.
-❌ Inconvenientes
-🔒 Es poco flexible ante cambios.
-🔄 Volver a una fase anterior puede ser complicado.
-🧪 Los problemas pueden descubrirse demasiado tarde.
-💡 Las ideas nuevas pueden ser difíciles de incorporar.
-👥 El usuario puede participar poco durante el desarrollo.
-🆚 Waterfall frente a Agile
+**Ventajas e inconvenientes**
+**Ventajas**
+Es sencilla de entender.
+Los objetivos y requisitos quedan definidos desde el principio.
+Facilita la planificación.
+Permite repartir claramente las responsabilidades.
+Genera una documentación ordenada.
+Facilita estimar tiempos y recursos.
+**Inconvenientes**
+Es poco flexible ante cambios.
+Volver a una fase anterior puede ser complicado.
+Los problemas pueden descubrirse demasiado tarde.
+Las ideas nuevas pueden ser difíciles de incorporar.
+El usuario puede participar poco durante el desarrollo.
+Waterfall frente a Agile
 
 Las dos metodologías permiten organizar proyectos, pero tienen enfoques diferentes.
 
