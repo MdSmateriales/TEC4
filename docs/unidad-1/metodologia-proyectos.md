@@ -60,20 +60,20 @@ La **planificación de un proyecto** consiste en organizar de forma anticipada l
 En nuestros proyectos utilizaremos herramientas y metodologías que nos ayudarán a trabajar de forma organizada, colaborativa y flexible, como **Design Thinking** y **Agile**.
 Estas metodologías nos permitirán comprender mejor los problemas, generar ideas, trabajar en equipo, probar nuestras soluciones y mejorarlas de forma continua.
 
-***Método tradicional o modelo en cascada
+##Método tradicional o modelo en cascada
 En el modelo en cascada, primero se planifica y diseña la solución y después se pasa a la construcción y comprobación.
 Los pasos secuenciales son en resumen: Necesidad → Diseño → Planificación → Construcción → Prueba → Resultado
 La característica principal es que se intenta definir la solución antes de comenzar a construirla y los cambios posteriores pueden resultar más costosos.
 
-***Design Thinking
+##Design Thinking
 Nos ayuda a comprender un problema o necesidad y diseñar soluciones pensando en las personas que las van a utilizar mediante la secuencia de procesos:
 Empatizar → Definir → Idear → Prototipar → Probar
 
-***Agile
+##Agile
 Nos ayuda a organizar el trabajo en equipo mediante pequeñas etapas, revisando continuamente lo que hacemos y adaptándonos a los cambios.
 Planificar → Hacer → Revisar → Mejorar → Repetir
 
-*** Relación con el proceso tecnológico
+## Relación con el proceso tecnológico
 
 Proceso tecnológico:  nos proporciona las fases para desarrollar una solución.
 
