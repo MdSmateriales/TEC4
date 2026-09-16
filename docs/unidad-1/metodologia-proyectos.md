@@ -163,7 +163,7 @@ Una buena planificación nos permite:
 
 ---
 
-## 🚀 Nuestro proceso
+##  Nuestro proceso
 
 ```text
 PROBLEMA
@@ -187,7 +187,7 @@ RESULTADO
 COMUNICACIÓN
 ````
 
-Este proceso será nuestra **forma de trabajar a lo largo de los diferentes proyectos del curso**.
+Este proceso sería nuestra **forma de trabajar a lo largo de los diferentes proyectos del curso**.
 
 ```
 ```
