@@ -175,7 +175,9 @@ Mejorar algunos aspectos.
 **¿Por qué se llama "Cascada"?**
 
 Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abajo, pasando de una fase a la siguiente.
+## 🔄 Fases del proyecto
 
+```text
 ┌─────────────────────┐
 │ 🔎 ANÁLISIS         │
 └──────────┬──────────┘
@@ -199,7 +201,7 @@ Se llama Waterfall porque el proyecto avanza principalmente de arriba hacia abaj
 ┌─────────────────────┐
 │ 🚀 FUNCIONAMIENTO   │
 └─────────────────────┘
-
+``` 
 💡 La idea fundamental es planificar primero y ejecutar después.
 
 **Ventajas e inconvenientes**
